@@ -103,3 +103,4 @@ export PATH="/usr/local/sbt/bin:$PATH"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export PATH="/usr/local/opt/gettext/bin:$PATH"
 alias config='/usr/bin/git --git-dir=/Users/othmane/.cfg/ --work-tree=/Users/othmane'
+alias sou='source env/bin/activate'
